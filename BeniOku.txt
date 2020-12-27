@@ -1,0 +1,9 @@
+
+1. Interactive Image Segmentation uygulamasýný açmak için öncelikle MATLAB çalýþtýrýnýz. 
+2. Segmetation.m dosyasýný açýnýz. 
+
+Not:
+1. Ornek_Uygulamalar klösründe bazý örnek çalýþmalar yer almaktadýr. 
+2. Word Belgesini de yapýlan uygulamanýn adýmlarýna yer verilmiþtir ve detaylý olarak açýklanmýþtýr. 
+3. Test dosyalarýnda segmentasyon iþlemi ile ilgili test edilen bir kaç algoritma yer almaktadýr. 
+4. images klasöründe hazýr bazý resimlere yer verilmiþtir. 

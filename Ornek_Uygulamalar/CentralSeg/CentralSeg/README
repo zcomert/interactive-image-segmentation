@@ -1,0 +1,21 @@
+This folder includes a Matlab implementation of the central segmentation approach 
+only for research use. 
+The method is described in:
+
+H. Wang and J. Oliensis, Shape Matching by Segmentation Averaging, ECCV08.
+
+
+
+Before using the code, you need type 
+
+mex diffSDis.c
+
+in Matlab in this folder. 
+There is a demo file showing how it works.
+
+
+Each file has a brief description. 
+For detail explanation, please check our paper.
+
+Hongzhi Wang
+01 July 2008
